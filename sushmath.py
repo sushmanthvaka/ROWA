@@ -1,7 +1,7 @@
 # Simple Python code to greet the user based on their name and age
 
 # Ask for user input
-name = input("Wherw are u from ushmamth ? ")
+name = input("Wherw are u from shmamth ? ")
 age = int(input("what you are doingnow & currently "))
 
 # Print a personalized greeting
